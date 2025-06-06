@@ -60,8 +60,8 @@ Aquí menciono algunos de mis proyectos más relevantes.
 
 ### 📚 Lo que estoy aprendiendo/explorando
 
-* Actualmente estoy profundizando en: ** Seguridad informática (defensa, protección de datos y análisis de vulnerabilidades), estándares ISO (Ej ISO 27001) y hardening de sistemas.
-* Interesado en explorar: DevOps para entrega continua, arquitecturas cloud (OCI/AWS), y el cumplimiento de normativas de ciberseguridad chilenas (Ej Ley Marco de Ciberseguridad).
+Actualmente estoy profundizando: ** Seguridad informática (defensa, protección de datos y análisis de vulnerabilidades), estándares ISO (Ej ISO 27001) y hardening de sistemas **.
+Interesado en explorar: ** DevOps para entrega continua, arquitecturas cloud (OCI/AWS), y el cumplimiento de normativas de ciberseguridad chilenas (Ej Ley Marco de Ciberseguridad) **.
 
 ---
 
