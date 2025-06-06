@@ -7,7 +7,6 @@
 ### 💻 Sobre Mí
 
 Soy estudiante de **tercer semestre de Ingeniería en Informática**, con base en programación y gestión de bases de datos.
-
 Mi interés en la tecnología me impulsa a una búsqueda constante de conocimiento y desarrollo de soluciones innovadoras. 
 
 Actualmente, mi enfoque principal reside en fortalecer mis competencias en **Desarrollo de Software y los principios de la Ingeniería de Software**, así como en la exploración de nuevas tecnologías y **normas ISO**.
@@ -54,6 +53,7 @@ Aquí menciono algunos de mis proyectos más relevantes.
       permitiendo administrar estudiantes, carreras, salas y reservas de manera eficiente.
       Demuestra el uso de arquitectura RESTful y persistencia de datos.
     * `Tecnologías utilizadas: [Java, Spring Boot, MySQL, Maven, Swagger/OpenAPI]`
+
       * [Proximamente enlace del proyecto Biblioteca]
 
 ---
